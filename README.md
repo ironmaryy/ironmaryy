@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   
-<p align="center"> <img width="90" height="50" src="https://komarev.com/ghpvc/?username=horrorhusbands&label=moons%20&color=6E095A&style=flat"
+<p align="center"> <img width="100" height="50" src="https://komarev.com/ghpvc/?username=horrorhusbands&label=moons%20&color=711041&style=flat"
 alt="horrorhusbands" /p
 
 </div>
@@ -33,10 +33,10 @@ alt="horrorhusbands" /p
 [rentry](https://rentry.co/horrorhusbandss)  ✗  [carrd](https://troubleinwoodsboro.carrd.co/)  ✗  [guns](https://guns.lol/quietmoment)  ✗  [ata](https://horrorhusbands.atabook.org/) 
 
 
-${\textsf{\color{#680071} "My moon, My moon my man" }}$
+${\textsf{\color{#711041} "My moon, My moon my man" }}$
 
 <img width="600" height="182" alt="image" src="https://github.com/user-attachments/assets/492d2701-6ada-4f0e-a381-08fa08d581cb" />
 
- ${\textsf{\color{#ebebe0} made by my alpha seb / @projecthailmary on gh / pvurrity }}$
+ ${\textsf{\color{#ebebe0} made by my alpha seb / ugly on gh / pvurrity }}$
 
 </div>
