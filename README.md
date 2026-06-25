@@ -12,7 +12,7 @@ alt="horrorhusbands" /p
 </div>
 <div align="center">
   
-  ${\textsf{\color{#6E0929} grocky/grockrian dni or wtv i domt fw that ship.  }}$
+  ${\textsf{\color{#6E0929} grocky/grockrian iwec or wtv i domt fw that ship sorry !  }}$
 
 </div> 
 <br />
